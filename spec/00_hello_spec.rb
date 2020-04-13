@@ -1,3 +1,4 @@
+require 'rspec'
 require_relative '../lib/00_hello'
 
 describe "the hello function" do

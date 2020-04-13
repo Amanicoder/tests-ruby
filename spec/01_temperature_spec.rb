@@ -1,6 +1,7 @@
+require 'rspec'
 require_relative '../lib/01_temperature'
 
-describe "temperature conversion functions" do
+describe "temperature_conversion_functions" do
 
   describe "#ftoc" do
 
